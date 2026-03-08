@@ -2,52 +2,13 @@
 
 ## <div align='center'>About me</div>
 
-I am a student of computer science at the University of Kalisz. Completing
-QA courses allowed me to discover my passion for a wide spectrum
-of computer technology, so I'm taking up studies and developing
-further in this field
+I am a student of computer science at the University of Kalisz<br>
+Completing QA courses at GoIT allowed me to discover my passion and interest for a wide spectrum<br>
+of computer technology, so I'm taking up studies and developing further in this field<br>
 
-Feel free to check out [my resume](https://drive.google.com/file/d/1Poi8cMGhoTf_1FqT-6K-8ql_KQMRDU4J/view?usp=sharing)
+I'm fascinated and love to learn about IoT, Networking and QA
 
-## <div align='center'>🌱My Tech Stack🐛</div>
-
-<div align='center'>
-
-| Programming Languages | Frontend |   Backend   |
-| :-------------------: | :------: | :---------: |
-|         Java          |   HTML   |    MySQL    |
-|      JavaScript       |   CSS    |   Postman   |
-|                       |          | API Testing |
-|                       |          |             |
-
-| Defect and test management tools | Version Control System | Data interchange formats |
-| :------------------------------: | :--------------------: | :----------------------: |
-|               Jira               |          Git           |           JSON           |
-|             TestRail             |         GitHub         |           XML            |
-|              Trello              |                        |                          |
-|               Qase               |                        |                          |
-
-</div>
-
-## <div align='center'>Courses and Certificates</div>
-
-### GoIT - **Automation Quality Assurance Engineer**
-
-- "Completed!"<br>
-  Certificate ID:
-  [**29778**](https://drive.google.com/file/d/1UNXWSotQx3HKjB47r6c61Ud0J-mzEvXX/view?usp=sharing)
-  > JavaScript | Cypress | E2E tests | UI tests | HTTP API tests | Performance testing | CI/CD | BDD testing
-
-<br>
-
-### GoIT - **Manual Quality Assurance Engineer**
-
-- "Completed!"<br>
-  Certificate ID:
-  [**25435**](https://drive.google.com/file/d/1I9XUeNH4LwAf7frD7_UchTNqxnh1L2qj/view?usp=drive_link)</br>
-  > Jira | Trello | TestRail | Qase | Postman | MySQL | XML | JSON | Git
-
-## <div align='center'>𖢥 My Projects & Examples of Work Products [QA] 𖢥</div>
+## <div align='center'>𖢥 Projects & Examples of Work Products [QA] 𖢥</div>
 
 ### Projects
 
@@ -79,8 +40,43 @@ Feel free to check out [my resume](https://drive.google.com/file/d/1Poi8cMGhoTf_
 
 - [|PL| TestRail - Example Online Accounting Test Cases](https://drive.google.com/file/d/1JClCLc58rECJ4_FXpU4vp083N-MOQrjR/view?usp=sharing)
 
-## <div align='center'>Languages:</div>
+## <div align='center'>Courses and Certificates</div>
 
-- English **B1/B2**
+### GoIT - **Automation Quality Assurance Engineer**
 
-- Polish **Native**
+- "Completed!"<br>
+  Certificate ID:
+  [**29778**](https://drive.google.com/file/d/1UNXWSotQx3HKjB47r6c61Ud0J-mzEvXX/view?usp=sharing)
+  > JavaScript | Cypress | E2E tests | UI tests | HTTP API tests | Performance testing | CI/CD | BDD testing
+
+<br>
+
+### GoIT - **Manual Quality Assurance Engineer**
+
+- "Completed!"<br>
+  Certificate ID:
+  [**25435**](https://drive.google.com/file/d/1I9XUeNH4LwAf7frD7_UchTNqxnh1L2qj/view?usp=drive_link)</br>
+  > Jira | Trello | TestRail | Qase | Postman | MySQL | XML | JSON | Git
+
+
+
+## <div align='center'>My Tech Stack</div>
+
+On Computer science so far I've learned:
+- Java
+- C/C++ used in microcontrollers
+- Python 
+- SQL
+- HTML
+- CSS
+- JS
+- Git & Github
+- PLC controllers
+
+On my time in GoIT I've learned
+| Defect and test management tools | Version Control System | 
+| :------------------------------: | :--------------------: |
+|               Jira               |          Git           |
+|             TestRail             |         GitHub         |
+|              Trello              |                        |
+|               Qase               |                        |
